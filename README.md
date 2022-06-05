@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dhanshri Borse</h1>
+<p align="left"> <img width ="150" src="https://komarev.com/ghpvc/?username=dhanshriborse&label=Profile%20views&color=0e75b6&style=flat" alt="dhanshriborse" /> </p>
+
+<h1 align="center">Hola 👋, I'm Dhanshri Borse</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="600" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanshriborse&label=Profile%20views&color=0e75b6&style=flat" alt="dhanshriborse" /> </p>
+<img align="center" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanshriborse&label=Profile%20views&color=0e75b6&style=flat" alt="dhanshriborse" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
